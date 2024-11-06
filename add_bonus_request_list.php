@@ -23,6 +23,7 @@ include_once('php_function/bonus_function.php');
     right: 0;
     box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.1);
 }
+
 .table_column_filter,.table_column_filter1,.table_column_filter2{
     right: 0;
     padding: 0;
